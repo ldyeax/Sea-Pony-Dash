@@ -1,7 +1,7 @@
-SqEng
+Sea Pony Dash
 =====
 
-Game engine for 2D RPG, platformer, puzzle, etc. games made in C#, SFML.NET.
-Named SqEng after "Squirrel Engine", because I initailly made it for a game about a squirrel on the moon, not yet released.
+Made with my game engine for 2D RPG, platformer, puzzle, etc. games made in C#, SFML.NET.
+This game was an entry to the Crystal Games Challenge game jam, which had the theme of the olympics. I wrote the code while others made the assets, shown in readme.txt. 
 
 [Playable build](https://github.com/ldyeax/Sea-Pony-Dash/blob/master/seaponydash.zip?raw=true)
