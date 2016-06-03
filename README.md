@@ -6,17 +6,17 @@ This game was an entry to the Crystal Games Challenge game jam, which had the th
 
 Game team:
 
-	Programming: LdyEax (me) - ldyeax@gmail.com
+  * Programming: LdyEax (me) - ldyeax@gmail.com
 	
-	Art: AnyaSmash - http://faikie.deviantart.com/
+  * Art: AnyaSmash - http://faikie.deviantart.com/
 	
-	SFX: Durpy - https://soundcloud.com/durpy-1
+  * SFX: Durpy - https://soundcloud.com/durpy-1
 	
 External assets:
 
-	Sea Ponies intro theme: http://www.newgrounds.com/audio/listen/495279
+  * Sea Ponies intro theme: http://www.newgrounds.com/audio/listen/495279
 	
-	Celestia Medium Redux: http://www.mattyhex.net/CMR/
+  * Celestia Medium Redux: http://www.mattyhex.net/CMR/
 	
 
 
